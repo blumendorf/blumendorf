@@ -14,8 +14,6 @@ I spent a decade at TU Berlin researching adaptive UIs and distributed AI. Now I
 - I care deeply about **developer experience**, codebases AI can reason about, and teams that grow with their tools
 - I believe AI in software development is the next great abstraction layer - and I'm building for that future every day
 
-📫 Contact: **marco@blumendorf.info**
-
 ---
 
 ### 🚀 Current work
@@ -70,11 +68,10 @@ I sometimes write and think about:
 | **Infrastructure** | Github Actions, GCP, Terraform, Azure                               |
 | **Practices**      | Vitest, Playwright, Cypress, CI/CD, Feature Flags                   |
 
-*(Choice of tools depends on constraints - I don't believe in fixed stacks.)*
 
 ---
 
-### 🔬 The Lab
+### 🔬 My Lab
 
 I maintain a collection of browser-based AI experiments exploring local LLMs running entirely in the browser via WebGPU. Check them out at [blumendorf.info/lab](https://blumendorf.info/lab).
 
