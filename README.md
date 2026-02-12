@@ -37,8 +37,9 @@ I spent a decade at TU Berlin researching adaptive UIs and distributed AI. Now I
 - **Advised 13 PhD students** during my time leading the Human-Computer Interaction research group
 - **Scaled a smart home engineering team from 2 to 18 engineers** at yetu AG
 - **CTO at smartB Energy Management** — raised funding and built an IoT platform for commercial energy management
-- **Freelance CTO & consultant** for multiple Berlin-based startups in sustainability and IoT
+- **CTO & Advisor** for multiple Berlin-based startups in sustainability and IoT
 - **Traveled the world for 2 years** after completing my PhD
+- **Left Berlin** for Brandenburg, raising chickens and kids, growing vegetables, building a home.
 
 ---
 
@@ -58,16 +59,16 @@ I sometimes write and think about:
 
 ---
 
-### 🧰 Tools I use
+### 🧰 Tech I like
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | React, TypeScript, Vite, Tailwind CSS, TanStack Query |
-| **Backend** | Python, Firebase Functions, Pydantic, GCP Cloud Functions |
-| **Data & Search** | Firestore, BigQuery, Typesense, Elasticsearch, PostgreSQL |
-| **AI & ML** | OpenAI, Anthropic Claude, LangChain, Cohere, Google GenAI |
-| **Infrastructure** | GCP, Terraform, Cloud Tasks, Pub/Sub, Firebase Auth |
-| **Practices** | Vitest, Playwright, Cypress, CI/CD, Feature Flags |
+| Area               | Technologies                                                        |
+| ------------------ | ------------------------------------------------------------------- |
+| **Coding**         | Cursor, Claude Code                                                 |
+| **Frontend**       | React, React-Native, TypeScript, Vite, Tailwind CSS, TanStack Query |
+| **Backend**        | Python, Firebase, Pydantic, Typesense, Elasticsearch, PostgreSQL    |
+| **AI & ML**        | Anthropic Claude, OpenAI, LangChain, Cohere, Google GenAI           |
+| **Infrastructure** | Github Actions, GCP, Terraform, Azure                               |
+| **Practices**      | Vitest, Playwright, Cypress, CI/CD, Feature Flags                   |
 
 *(Choice of tools depends on constraints — I don't believe in fixed stacks.)*
 
