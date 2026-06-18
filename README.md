@@ -4,13 +4,14 @@
 
 🇩🇪 Based near Berlin, Germany · Working at the intersection of AI and publishing
 
+[Website](https://blumendorf.info) · [LinkedIn](https://linkedin.com/in/marcoblu)
+
 ---
 
 ### 👨‍💻 What I do
 
 - **Director of Software Engineering - [CHAPTR](https://chaptr.ai)**
-  Building [reedy.ai](https://reedy.ai) - AI-powered metadata optimization for publishers.
-  Improving discoverability, making large book catalogs semantically searchable, and optimizing for platforms like Amazon.
+  Building AI-powered tools for publishers.
   Focus: developer experience, AI-compatible codebase architecture, bridging product and engineering.
 
 - **Startup Mentor & Advisor**
@@ -23,7 +24,7 @@
 
 | Area               | Technologies                                                        |
 | ------------------ | ------------------------------------------------------------------- |
-| **Coding**         | Cursor, Claude Code                                                 |
+| **Tools**          | Cursor, Claude Code                                                 |
 | **Frontend**       | React, React-Native, TypeScript, Vite, Tailwind CSS, TanStack Query |
 | **Backend**        | Python, Firebase, Pydantic, Typesense, Elasticsearch, PostgreSQL    |
 | **AI & ML**        | Anthropic Claude, OpenAI, LangChain, Cohere, Google GenAI           |
@@ -32,8 +33,3 @@
 
 I build codebases AI can reason about: simple folder structures, documentation about the *why* not just the *what*, established best practices, and tests as the ultimate lifeline.
 
----
-
-### 🔗 Find me elsewhere
-
-[Website](https://blumendorf.info) · [LinkedIn](https://linkedin.com/in/marcoblu)
