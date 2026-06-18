@@ -36,4 +36,4 @@ I build codebases AI can reason about: simple folder structures, documentation a
 
 ### 🔗 Find me elsewhere
 
-[Website](https://blumendorf.info) · [LinkedIn](https://linkedin.com/in/marcoblu) · [GitHub](https://github.com/blumendorf)
+[Website](https://blumendorf.info) · [LinkedIn](https://linkedin.com/in/marcoblu)
