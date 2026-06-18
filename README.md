@@ -1,4 +1,4 @@
-# Hi, I'm Marco Blumendorf 👋
+# Hi, I'm Marco 👋
 
 ### Director at work, developer at heart - AI-native engineer with a PhD
 
@@ -30,7 +30,7 @@
 | **Infrastructure** | Github Actions, GCP, Terraform, Azure                               |
 | **Practices**      | Vitest, Playwright, Cypress, CI/CD, Feature Flags                   |
 
-I build for codebases AI can reason about: simple folder structures, documentation about the *why* not just the *what*, established best practices, and tests as the ultimate lifeline.
+I build codebases AI can reason about: simple folder structures, documentation about the *why* not just the *what*, established best practices, and tests as the ultimate lifeline.
 
 ---
 
